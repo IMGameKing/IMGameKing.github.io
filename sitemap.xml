@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://IMGameKing.github.io/categories/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/tags/markdown/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/categories/markdown/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/blog/markdown/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/tags/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
+    <loc>https://IMGameKing.github.io/tags/%E5%85%A5%E9%96%80/</loc>
+    <lastmod>2022-01-29T16:48:00+08:00</lastmod>
+  </url><url>
     <loc>https://IMGameKing.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
@@ -11,16 +32,10 @@
     <loc>https://IMGameKing.github.io/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://IMGameKing.github.io/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
     <loc>https://IMGameKing.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
     <loc>https://IMGameKing.github.io/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://IMGameKing.github.io/categories/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://IMGameKing.github.io/tags/game/</loc>
@@ -95,12 +110,7 @@
     <loc>https://IMGameKing.github.io/tags/react/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://IMGameKing.github.io/tags/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://IMGameKing.github.io/categories/web-design/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://IMGameKing.github.io/blog/markdown/</loc>
   </url>
 </urlset>
