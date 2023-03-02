@@ -1,0 +1,40 @@
+/* Chapter 4 進階HTML, CSS 的投影片非常的重要 */
+
+div.container {
+  border: 3px solid black;
+  height: 1500px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.box {
+  width: 250px;
+  height: 250px;
+}
+
+.box1 {
+  background-color: coral;
+  display: flex;
+}
+
+.box2 {
+  background-color: rgb(95, 80, 255);
+  display: flex;
+}
+
+.box3 {
+  background-color: rgb(255, 80, 205);
+  display: flex;
+}
+
+.box4 {
+  background-color: rgb(80, 255, 141);
+  display: flex;
+}
+
+.box5 {
+  background-color: rgb(0, 0, 0);
+  display: flex;
+}

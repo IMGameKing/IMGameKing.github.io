@@ -1,0 +1,62 @@
+div.containter {
+  width: 500px;
+  height: 2000px;
+  background-color: black;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.small-box {
+  width: 100px;
+  height: 100px;
+}
+
+.box1 {
+  background-color: aqua;
+  position: sticky;
+  top: 10px;
+}
+/* 會一直到臨界點然後保持10px的距離跟隨 */
+
+.box2 {
+  background-color: rebeccapurple;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+/* 鎖死在這個位置 */
+
+.box3 {
+  background-color: yellow;
+  position: relative;
+  z-index: 0;
+}
+/* 相對位置z-index越大越前面 */
+
+.box4 {
+  background-color: red;
+  position: fixed;
+  top: 300px;
+  left: 300px;
+}
+/* 永遠固定在這個位置跟著移動 */
+
+.box5 {
+  background-color: coral;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: -1;
+}
+
+.box6 {
+  background-color: blue;
+  position: absolute;
+  top: 30px;
+  left: 80px;
+  z-index: -5;
+}
+/* 同一層會產生堆疊環境，不同層就不會 */

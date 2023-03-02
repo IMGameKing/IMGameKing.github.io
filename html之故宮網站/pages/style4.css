@@ -1,0 +1,82 @@
+/* 用於index */
+div.link1 a {
+  color: red;
+  text-decoration: none;
+}
+
+div.link2 a {
+  color: darkorange;
+}
+
+.red-text {
+  color: red;
+}
+
+P::before {
+  content: ">>";
+  color: blue;
+}
+
+P::first-line {
+  font-size: 32px;
+}
+/* 
+pixel 像素 2.54cm 也可以用cm mm in 瀏覽器預設為16px  
+還有em 相對大小可以設定
+*/
+
+*::selection {
+  background-color: lightgreen;
+}
+
+.box {
+  width: 500px;
+  background-color: brown;
+  height: 300px;
+}
+/* background-color transparent背景顏色空白 */
+
+.inner-box {
+  width: 50%;
+  background-color: darkblue;
+  height: 50%;
+  border-radius: 50%;
+}
+/* 相對於樓上父元素50% */
+
+h1 {
+  text-align: center;
+  letter-spacing: 10px;
+  line-height: 50px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: lighter;
+  background-color: rgb(200, 200, 200);
+  border: 4mm ridge rgba(211, 220, 50, 0.6);
+  border-radius: 30px;
+  padding: 1em;
+  margin: 1em;
+}
+/* 
+h1靠中對齊 
+字體距離
+行距
+如果瀏覽器找不到第一個字體就會找第二個然後第三個
+加粗或變細
+背景顏色
+外框
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
+https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+*/
+
+p {
+  text-indent: 2rem;
+}
+/* 首行內縮 */
+
+.myClass {
+  display: inline-block;
+  background-color: red;
+  width: 500px;
+  height: 300px;
+}

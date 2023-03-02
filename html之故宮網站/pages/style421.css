@@ -1,0 +1,17 @@
+div.container {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+}
+
+div.box {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  transition: all 2s;
+}
+
+div.box:hover {
+  transform: translate(100px, 100px) rotate(120deg);
+  scale: 1.5;
+}
