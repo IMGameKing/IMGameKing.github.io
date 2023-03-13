@@ -180,6 +180,7 @@ td {
 
 .china table {
   min-width: 1000px;
+  overflow-x: auto;
 }
 
 .china th {
